@@ -1,9 +1,7 @@
-# Mythos and Stories — Grant front sheet
+# Not the grant package
 
-https://github.com/One-Wave-Universe/Mythos-and-Stories
+Fiction only. Zero scientific claims. Zero funded deliverables.
 
-Fiction. Cautionary sci-fi about coercive control. Not science. Not engineering.
+Grant applications use **Builds only**:
 
-Sister repos:
-- Science: https://github.com/One-Wave-Universe/One-Wave-Science
-- Builds: https://github.com/One-Wave-Universe/Builds
+https://github.com/One-Wave-Universe/Builds
