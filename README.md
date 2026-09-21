@@ -17,5 +17,3 @@ This is fiction. It is not a scientific repository and its stories are not hypot
 ## Migration standard
 
 Narrative material from the former mixed project can be rewritten, reorganized, split, or consolidated where necessary while preserving the story, themes, and creative intent.
-
-License: [LICENSE](LICENSE) · CLA: [CLA.md](CLA.md) · Notice: [NOTICE](NOTICE)
