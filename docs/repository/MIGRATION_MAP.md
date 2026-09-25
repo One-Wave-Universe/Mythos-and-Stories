@@ -9,7 +9,7 @@
 | Source material | Destination |
 |---|---|
 | `Musical_Universe/` | `Musical_Universe/` |
-| `DREAMSCAPE_TRANSLATOR_OPEN_WORK.md` | `Dreamscape/` |
+| `https://github.com/One-Wave-Universe/One-Wave-Science/blob/main/docs/open-work/DREAMSCAPE_TRANSLATOR_OPEN_WORK.md` | `Dreamscape/` |
 | Narrative portions of `Miniverse/` | `Miniverse/` |
 | Creative fiction books | `Books/` |
 | Cautionary speculative stories | relevant story collection |
